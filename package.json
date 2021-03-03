@@ -44,7 +44,7 @@
     "pretty-format": "^21.1.0",
     "prettyjson": "^1.2.1",
     "promise-limit": "^2.5.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "sanitize-html": "^1.20.1",
     "xml2js": "^0.4.19"
   },
